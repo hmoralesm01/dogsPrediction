@@ -1,0 +1,13 @@
+name: dog-vision
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - tensorflow==2.18.0
+      - gradio>=4.0
+      - pandas
+      - matplotlib
+      - scipy
+      - tqdm
