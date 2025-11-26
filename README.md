@@ -7,4 +7,4 @@ Clasificador de 120 razas de perros con TensorFlow 2.x + EfficientNetV2B0
 git clone https://github.com/hmoralesm01/dogsBreedPredictor.git
 cd dogsPediction
 pip install -r requirements.txt
-python dogsBreedPredicto.py       
+python dogsBreedPredictor.py       
